@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Name=brutalchess
+Comment=Chess game with 3D graphics powered by OpenGL and SDL
+Exec=brutalchess
+Icon=brutalchess.png
+Type=Application
+Categories=Game;BoardGame;
+Terminal=false
